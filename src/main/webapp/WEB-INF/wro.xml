@@ -1,0 +1,9 @@
+<groups xmlns="http://www.isdc.ro/wro">
+
+    <group name="main">
+        <!--<js>classpath:assets/scripts/test.js</js>-->
+        <js>classpath:assets/typescript/main.ts</js>
+        <css>classpath:assets/sass/main.sass</css>
+        <css>classpath:assets/sass/main.sass</css>
+    </group>
+</groups>
